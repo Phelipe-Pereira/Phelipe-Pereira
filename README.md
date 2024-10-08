@@ -12,6 +12,7 @@ Sou estudante de Engenharia de Software com experiência em diversas linguagens 
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="height: 30px;"/>
   <img src="https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" style="height: 30px;"/>
   <img src="https://img.shields.io/badge/SQL-%234479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" style="height: 30px;"/>
+  <img src="https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white" alt="Groovy" style="height: 30px;"/>
 
 </div>
 
