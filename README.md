@@ -7,7 +7,7 @@ Sou estudante de Engenharia de Software com experiência em diversas linguagens 
 
 <div style="display: flex; align-items: center; justify-content: space-around;">
 
-  <img src="[Java]https://img.shields.io/badge/Java-%23F7DF1E?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="height: 30px;"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" style="height: 30px;"/>
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" style="height: 30px;"/>
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="height: 30px;"/>
   <img src="https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" style="height: 30px;"/>
