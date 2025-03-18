@@ -1,8 +1,11 @@
 # 👩🏻‍💻 Phelipe Pereira
 
 **`Desenvolvedor FullStack`**
+<br/>
+
 Opa, Sou o Phelipe, tenho 21 anos e sou desenvolvedor de software, atualmente trabalho como analista na equipe de sucesso em integração no Asaas.
 
+<br/>
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -110,6 +113,7 @@ Opa, Sou o Phelipe, tenho 21 anos e sou desenvolvedor de software, atualmente tr
     src="https://github-readme-stats.vercel.app/api?username=Phelipe-Pereira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 </p>
+<br/>
 
 ## 📫 Contatos
 - [LinkedIn](https://www.linkedin.com/in/phelipe-leandro-pereira/)
