@@ -117,4 +117,3 @@ Opa, Sou o Phelipe, tenho 21 anos e sou desenvolvedor de software, atualmente tr
 
 ## 📫 Contatos
 - [LinkedIn](https://www.linkedin.com/in/phelipe-leandro-pereira/)
-- [GitHub](https://github.com/Phelipe-Pereira/Phelipe_Pereira)
