@@ -1,22 +1,116 @@
-# Phelipe Pereira
+# 👩🏻‍💻 Phelipe Pereira
 
-## About me
-I'm a software developer and currently work as an analyst in the Asaas API integration success team.
-Asaas is a fintech company that has developed a digital accounts platform for companies, always with the aim of reducing bureaucracy in the process of issuing charges and managing the company's finances.
+**`Desenvolvedor FullStack`**
+Opa, Sou o Phelipe, tenho 21 anos e sou desenvolvedor de software, atualmente trabalho como analista na equipe de sucesso em integração no Asaas.
 
-## Languages and Frameworks
+---
 
-<div style="display: flex; align-items: center; justify-content: space-around;">
+### 🤖 Linguagens e Tecnologias
 
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" style="height: 30px;"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" style="height: 30px;"/>
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="height: 30px;"/>
-  <img src="https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" style="height: 30px;"/>
-  <img src="https://img.shields.io/badge/SQL-%234479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" style="height: 30px;"/>
-  <img src="https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white" alt="Groovy" style="height: 30px;"/>
+<img 
+    align="left" 
+    alt="Java"
+    title="Java"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Groovy"
+    title="Groovy"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Spring Boot"
+    title="Spring Boot"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Vue.js"
+    title="Vue.js"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Angular"
+    title="Angular"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"
+/>
+<img 
+    align="left" 
+    alt="JavaScript"
+    title="JavaScript"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+<img 
+    align="left" 
+    alt="CSS"
+    title="CSS"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Git"
+    title="Git"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+<img 
+    align="left" 
+    alt="SQL"
+    title="SQL"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
 
-</div>
+<br/>
+<br/>
 
-## Contatos
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Phelipe-Pereira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+</p>
+
+## 📫 Contatos
 - [LinkedIn](https://www.linkedin.com/in/phelipe-leandro-pereira/)
 - [GitHub](https://github.com/Phelipe-Pereira/Phelipe_Pereira)
