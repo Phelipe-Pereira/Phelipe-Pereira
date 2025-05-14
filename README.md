@@ -1,121 +1,57 @@
-# 👨‍💻 Phelipe Pereira
+<h1 align="center">👋 Olá, eu sou o Phelipe Pereira</h1>
+<h3 align="center">Desenvolvedor Fullstack • Analista de API na Asaas</h3>
 
-**`Desenvolvedor FullStack`**
-<br/>
-
-Opa, Sou o Phelipe, tenho 21 anos e sou desenvolvedor de software, atualmente trabalho como analista na equipe de sucesso em integração no Asaas.
-
-<br/>
 ---
 
-## 📫 Contatos
-- [LinkedIn](https://www.linkedin.com/in/phelipe-leandro-pereira/)
+### 👨‍💻 Sobre mim
+- 🎓 Tenho 21 anos e curso Análise e Desenvolvimento de Sistemas.
+- 💼 Atualmente atuo como **Analista na equipe de Integração da Asaas**, focado em sucesso com APIs.
+- 🧠 Experiência com Java, Groovy, Node.js, Vue, integrações REST, microserviços e arquitetura de middleware.
+- 🧰 Busco sempre aplicar boas práticas, clean code e foco em performance e segurança.
+- 🚀 Projetos paralelos ajudam a consolidar meu aprendizado com tecnologias modernas.
 
-<br/>
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🧰 Tecnologias que uso no dia a dia
 
-<img 
-    align="left" 
-    alt="Java"
-    title="Java"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Groovy"
-    title="Groovy"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Spring Boot"
-    title="Spring Boot"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Vue.js"
-    title="Vue.js"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Angular"
-    title="Angular"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"
-/>
-<img 
-    align="left" 
-    alt="JavaScript"
-    title="JavaScript"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
-<img 
-    align="left" 
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Git"
-    title="Git"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-<img 
-    align="left" 
-    alt="SQL"
-    title="SQL"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-/>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+</div>
 
-<br/>
-<br/>
+---
 
-### 📊 Estatísticas
+### 🧩 Projetos em Destaque
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Phelipe-Pereira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+| Projeto | Descrição |
+|--------|-----------|
+| 🔧 [**TaskLogger**](https://github.com/Phelipe-Pereira/TaskLogger) | Sistema de gerenciamento de tarefas com múltiplos processos, comunicação em tempo real com Socket.IO e logs avançados com Winston. Utiliza cluster com PM2. |
+| 🛒 [**Vozzy**](https://github.com/Phelipe-Pereira/Vozzy) | Plataforma web completa de gerenciamento de produtos, categorias e feedbacks com autenticação JWT, Sequelize, MySQL, Bootstrap e EJS. |
+| 🏦 [**PhBank**](https://github.com/Phelipe-Pereira/PhBank) | Simulador bancário feito em Java, com funções básicas como criar conta, transferências, saques, depósitos e geração de extratos. |
+| 🎬 [**Screenmatch**](https://github.com/Phelipe-Pereira/screenmatch-sem-web) | Projeto de API em Java que simula um serviço de recomendação de filmes/séries com consumo de dados externos. |
+
+---
+
+### 📊 Estatísticas GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Phelipe-Pereira&show_icons=true&theme=midnight-purple&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phelipe-Pereira&layout=compact&theme=midnight-purple" height="160"/>
 </p>
+
+---
+
+### 📬 Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/phelipe-pereira/)
+- 📧 Email: **phelipesp01@gmail.com**
+
+---
