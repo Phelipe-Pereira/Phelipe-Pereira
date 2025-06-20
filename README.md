@@ -66,6 +66,6 @@ Atuo diariamente com código backend voltado a integrações internas e automaç
 ### 📬 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/phelipe-pereira/)
-- 📧 Email: **phelipesp01@gmail.com**
+- 📧 Email: **phelipe.pereira0811@gmail.com**
 
 ---
