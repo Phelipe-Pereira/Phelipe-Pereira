@@ -28,6 +28,20 @@
 </div>
 
 ---
+### 💻 Contribuições de Código na Conta Corporativa (`@Phelipe-Asaas`)
+
+Atuo diariamente com código backend voltado a integrações internas e automações no ecossistema do Asaas. Entre minhas principais contribuições técnicas estão:
+
+- ✳️ Refatoração de controllers Grails, promovendo melhor coesão e legibilidade
+- 🔁 Criação de métodos/actions em Groovy com controle transacional e execução em lote
+- 📡 Desenvolvimento de endpoints RESTful internos com regras de validação específicas
+- 📑 Análise e execução de consultas SQL para extrair dados relevantes de grandes volumes, com foco em suporte a integrações e diagnósticos de comportamento.
+- ⚙️ Implementação de regras de negócio críticas como validação de subcontas, limites operacionais e estados cadastrais
+- 🔄 Ajustes em mecanismos de webhook e reprocessamento de eventos com foco em idempotência e confiabilidade
+
+> As contribuições acima foram realizadas em repositórios privados, por isso não aparecem nas estatísticas públicas desta conta.
+
+---
 
 ### 🧩 Projetos em Destaque
 
