@@ -1,45 +1,49 @@
+
 <h1 align="center">👋 Olá, eu sou o Phelipe Pereira</h1>
-<h3 align="center">Desenvolvedor Fullstack • Analista de API na Asaas</h3>
+<h3 align="center">Desenvolvedor Fullstack • Analista de Integrações e APIs na Asaas</h3>
 
 ---
 
 ### 👨‍💻 Sobre mim
-- 🎓 Tenho 21 anos e curso Análise e Desenvolvimento de Sistemas.
-- 💼 Atualmente atuo como **Analista na equipe de Integração da Asaas**, focado em sucesso com APIs.
-- 🧠 Experiência com Java, Groovy, Node.js, Vue, integrações REST, microserviços e arquitetura de middleware.
-- 🧰 Busco sempre aplicar boas práticas, clean code e foco em performance e segurança.
-- 🚀 Projetos paralelos ajudam a consolidar meu aprendizado com tecnologias modernas.
+- 🎓 Tenho 21 anos e curso **Análise e Desenvolvimento de Sistemas**.
+- 💼 Atualmente atuo como **Analista na equipe de Integração da Asaas**, com foco em **sucesso de clientes via APIs** e automações de alto impacto.
+- 🧠 Experiência em **Java, Groovy, Node.js, Vue, integrações REST, microserviços e arquitetura de middleware**.
+- 🔗 Trabalho também com **ferramentas de integração low/no-code** como **n8n, Make e Bubble**, criando fluxos personalizados, conectores e SDKs.
+- 🧰 Sempre aplicando **boas práticas, clean code, segurança e performance**.
+- 🚀 Projetos paralelos e eventos de tecnologia consolidam meu aprendizado em **tecnologias modernas e experimentais**.
 
 ---
 
-### 🧰 Tecnologias que uso no dia a dia
+### 🧰 Tecnologias
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/groovy.png" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/groovy.png" height="40" alt="Groovy" title="Groovy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" title="Vue.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" title="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP"/>
 </div>
 
 ---
+
 ### 💻 Contribuições de Código na Conta Corporativa (`@Phelipe-Asaas`)
 
-Atuo diariamente com código backend voltado a integrações internas e automações no ecossistema do Asaas. Entre minhas principais contribuições técnicas estão:
+Atuo diariamente em integrações internas e automações críticas no ecossistema Asaas. Algumas das principais entregas:
 
-- ✳️ Refatoração de controllers Grails, promovendo melhor coesão e legibilidade
-- 🔁 Criação de métodos/actions em Groovy com controle transacional e execução em lote
-- 📡 Desenvolvimento de endpoints RESTful internos com regras de validação específicas
-- 📑 Análise e execução de consultas SQL para extrair dados relevantes de grandes volumes, com foco em suporte a integrações e diagnósticos de comportamento.
-- ⚙️ Implementação de regras de negócio críticas como validação de subcontas, limites operacionais e estados cadastrais
-- 🔄 Ajustes em mecanismos de webhook e reprocessamento de eventos com foco em idempotência e confiabilidade
-
-> As contribuições acima foram realizadas em repositórios privados, por isso não aparecem nas estatísticas públicas desta conta.
+- ✳️ **Refatoração de controllers Grails**, garantindo maior coesão, clareza e rastreabilidade  
+- 🔁 **Criação de métodos batch em Groovy**, com controle transacional e rollback seguro  
+- 📡 **Desenvolvimento de endpoints RESTful internos** com regras de negócio e validações específicas  
+- 📑 **Consultas SQL otimizadas** para diagnósticos e suporte a grandes volumes de dados  
+- ⚙️ **Regras de negócio críticas** como validação de subcontas, limites operacionais e estados cadastrais  
+- 🔄 **Ajustes em webhooks, reprocessamento de eventos e idempotência**  
+- 🔌 Criação de **nodes customizados para n8n** e suporte a integrações em **Make e Bubble**, aproximando APIs complexas do usuário final  
 
 ---
 
@@ -48,9 +52,12 @@ Atuo diariamente com código backend voltado a integrações internas e automaç
 | Projeto | Descrição |
 |--------|-----------|
 | 🔧 [**TaskLogger**](https://github.com/Phelipe-Pereira/TaskLogger) | Sistema de gerenciamento de tarefas com múltiplos processos, comunicação em tempo real com Socket.IO e logs avançados com Winston. Utiliza cluster com PM2. |
-| 🛒 [**Vozzy**](https://github.com/Phelipe-Pereira/Vozzy) | Plataforma web completa de gerenciamento de produtos, categorias e feedbacks com autenticação JWT, Sequelize, MySQL, Bootstrap e EJS. |
-| 🏦 [**PhBank**](https://github.com/Phelipe-Pereira/PhBank) | Simulador bancário feito em Java, com funções básicas como criar conta, transferências, saques, depósitos e geração de extratos. |
-| 🎬 [**Screenmatch**](https://github.com/Phelipe-Pereira/screenmatch-sem-web) | Projeto de API em Java que simula um serviço de recomendação de filmes/séries com consumo de dados externos. |
+| 🛒 [**Vozzy**](https://github.com/Phelipe-Pereira/Vozzy) | Plataforma web de gerenciamento de produtos, categorias e feedbacks com autenticação JWT, Sequelize, MySQL, Bootstrap e EJS. |
+| 🏦 [**PhBank**](https://github.com/Phelipe-Pereira/PhBank) | Simulador bancário em Java, com funções como criar conta, transferências, saques, depósitos e geração de extratos. |
+| 🎬 [**Screenmatch**](https://github.com/Phelipe-Pereira/screenmatch-sem-web) | Projeto de API em Java que simula recomendação de filmes/séries com consumo de dados externos. |
+| 🌐 **Middleware Multi-Gateway** (privado) | Centraliza integrações com múltiplos gateways de pagamento (Asaas, Stripe, Mercado Pago). |
+| 🐀 [**NerdRats**](https://github.com/Phelipe-Pereira/nerd_rats) | Projeto criado no **Codecon Universe 2025**. Um “Strava do programador sedentário” que mede cliques, teclas e distância do mouse. Stack: **Python (Tkinter + PyInstaller)** no desktop + **Next.js/Tailwind** (frontend) + **Node.js + Supabase** (API). |
+| 🏫 [**SalaOnline**](https://github.com/Phelipe-Pereira/SalaOnline) | Sistema acadêmico em **PHP** voltado para aulas online e organização de turmas. |
 
 ---
 
