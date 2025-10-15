@@ -1,15 +1,14 @@
-
 <h1 align="center">👋 Olá, eu sou o Phelipe Pereira</h1>
 <h3 align="center">Desenvolvedor Fullstack • Analista de Integrações e APIs na Asaas</h3>
 
 ---
 
 ### 👨‍💻 Sobre mim
-- 🎓 Tenho 21 anos e curso **Análise e Desenvolvimento de Sistemas**.
-- 💼 Atualmente atuo como **Analista na equipe de Integração da Asaas**, com foco em **sucesso de clientes via APIs** e automações de alto impacto.
-- 🧠 Experiência em **Java, Groovy, Node.js, Vue, integrações REST, microserviços e arquitetura de middleware**.
-- 🔗 Trabalho também com **ferramentas de integração low/no-code** como **n8n, Make e Bubble**, criando fluxos personalizados, conectores e SDKs.
-- 🧰 Sempre aplicando **boas práticas, clean code, segurança e performance**.
+- 🎓 Tenho 21 anos e curso **Análise e Desenvolvimento de Sistemas**.  
+- 💼 Atuo como **Analista na equipe de Integração da Asaas**, com foco em **sucesso de clientes via APIs** e automações de alto impacto.  
+- 🧠 Experiência em **Java, Groovy, Node.js, Vue, integrações REST, microserviços e arquitetura de middleware**.  
+- 🔗 Trabalho também com **ferramentas de integração low/no-code** como **n8n, Make e Bubble**, criando fluxos personalizados, conectores e SDKs.  
+- 🧰 Sempre aplicando **boas práticas, clean code, segurança e performance**.  
 - 🚀 Projetos paralelos e eventos de tecnologia consolidam meu aprendizado em **tecnologias modernas e experimentais**.
 
 ---
@@ -29,8 +28,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP"/>
+  <img src="https://n8n.io/favicon.ico" height="40" alt="n8n" title="n8n"/>
 </div>
 
+---
+
+### 🧩 Módulo oficial N8N — Asaas
+
+<div align="center">
+  <img src="https://n8n.io/favicon.ico" height="50" alt="n8n logo"/>
+</div>
+
+- 📦 **Pacote npm:** [`@asaasbr/n8n-nodes-asaas`](https://www.npmjs.com/package/@asaasbr/n8n-nodes-asaas)  
+- 🌐 **Integração oficial para n8n com a API do Asaas**  
+- 🧰 Permite criar automações com clientes, cobranças, notificações, PIX e outros recursos nativos da plataforma.  
+- 🚀 Ideal para quem deseja conectar sistemas de forma rápida sem precisar codificar do zero.
+
+```bash
+npm install @asaasbr/n8n-nodes-asaas
+```
 ---
 
 ### 💻 Contribuições de Código na Conta Corporativa (`@Phelipe-Asaas`)
