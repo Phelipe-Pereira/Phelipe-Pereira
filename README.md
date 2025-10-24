@@ -81,7 +81,6 @@ Atuo diariamente em integrações internas e automações críticas no ecossiste
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Phelipe-Pereira&show_icons=true&theme=midnight-purple&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phelipe-Pereira&layout=compact&theme=midnight-purple" height="160"/>
 </p>
 
 ---
