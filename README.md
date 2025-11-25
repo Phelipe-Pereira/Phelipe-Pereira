@@ -172,12 +172,9 @@ Esse projeto representa um dos meus projeto que reforça meu foco em **desenvolv
 
 ## 📊 Estatísticas GitHub
 
-  
 
+![GitHub Stats](https://git-hub-stats-one.vercel.app/api?username=Phelipe-Pereira&show_icons=true&theme=midnight-purple&count_private=true)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Phelipe-Pereira&show_icons=true&theme=midnight-purple&count_private=true" height="160"/>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Phelipe-Pereira&theme=dark)](https://git.io/streak-stats)
 
   
 
@@ -190,8 +187,3 @@ Esse projeto representa um dos meus projeto que reforça meu foco em **desenvolv
   
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/phelipe-pereira/)
-
-- 📧 **phelipe.pereira0811@gmail.com**
-
-  
-
