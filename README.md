@@ -19,7 +19,7 @@
 
   
 
-- 🎓 Tenho 21 anos e curso **Análise e Desenvolvimento de Sistemas**.
+- 🎓 Tenho 22 anos e curso **Análise e Desenvolvimento de Sistemas**.
 
 - 💼 Atuo como **Analista na equipe de Integração da Asaas**, com foco em **sucesso de clientes via APIs** e automações de alto impacto.
 
@@ -167,13 +167,6 @@ Esse projeto representa um dos meus projeto que reforça meu foco em **desenvolv
   
 
 ---
-
-  
-
-## 📊 Estatísticas GitHub
-
-
-![GitHub Stats](https://git-hub-stats-one.vercel.app/api?username=Phelipe-Pereira&show_icons=true&theme=midnight-purple&count_private=true)
 
 
   
