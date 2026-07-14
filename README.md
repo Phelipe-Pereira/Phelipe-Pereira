@@ -23,7 +23,7 @@ Atuo na equipe de Sucesso de Integração da **Asaas**, em ambiente fintech, tra
 
 Na conta corporativa `@Phelipe-Asaas`, minhas contribuições envolvem principalmente:
 
-- Refatoração de controllers/classes Grails para melhorar coesão, clareza e rastreabilidade.
+- Refatoração, criação e correção de controllers/classes Grails para melhorar coesão, clareza e rastreabilidade.
 - Criação de métodos para processamento de itens em lote em Groovy com controle transacional e rollback seguro.
 - Desenvolvimento de endpoints REST internos com regras de negócio e validações específicas.
 - Atuação com fluxos de cobrança, assinatura, split de pagamentos, webhooks e integrações com sistemas de pagamento.
